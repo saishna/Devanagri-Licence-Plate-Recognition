@@ -21,6 +21,37 @@ This project leverages **YOLOv8, OpenCV, and OCR** to build a robust traffic aut
 - **Backend/Deployment:** Flask / FastAPI  
 
 ---
+## 📊 Sample Results
+
+**Sample Output:**
+
+| Input Frame   | Detection Output                                         | OCR Result                               |
+|---------------|----------------------------------------------------------|-----------------------------------------|
+| Image/Video   | Vehicle classification (2-wheeler / 4-wheeler), License plate detection | Recognized Devanagari text (e.g., बा.२ च १२३४) |
+
+- ✅ Vehicle classification (2-wheeler vs 4-wheeler)  
+- ✅ License plate detection  
+- ✅ OCR recognition of Devanagari plate
+
+---
+
+## 📌 Applications
+- 🚦 **Traffic Management** – Automated vehicle classification and congestion analysis  
+- 👮 **Law Enforcement** – Tracking vehicles violating traffic rules  
+- 🅿️ **Parking & Toll Systems** – Automated entry/exit with plate logging  
+- 🏙️ **Smart Cities** – AI-powered surveillance for safer transportation
+
+---
+
+## 📧 Contact
+
+**Saishna Budhathoki**  
+Email: saishna.mlengineer@nicrfnepal.org.np | saishna.budhathoki@gmail.com  
+LinkedIn: [Saishna Budhathoki](https://www.linkedin.com/in/saishna-budhathoki)  
+
+
+
+
 
 ## 🚀 Installation & Running
 
