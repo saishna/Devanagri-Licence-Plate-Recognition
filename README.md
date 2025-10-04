@@ -28,10 +28,5 @@ This project leverages **YOLOv8, OpenCV, and OCR** to build a robust traffic aut
 ```bash
 pip install -r requirements.txt
 
----
-
-
-## 🚀
-**Run the application:**
-```bash
+# Run the application
 python app.py
